@@ -1,4 +1,25 @@
 {
+  "name": "compress-img",
+  "description": "Compress images with command line",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greeto/compress-img"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greeto/compress-img/issues"
+  },
+  "homepage": "https://github.com/greeto/compress-img",
+  "bin": {
+    "compress-img": "bin/compress-img.js"
+  },
   "dependencies": {
     "compress-images": "^1.1.6"
   }
