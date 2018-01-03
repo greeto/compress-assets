@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "compress-images": "^1.1.6"
+  }
+}
