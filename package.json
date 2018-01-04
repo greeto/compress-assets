@@ -1,6 +1,6 @@
 {
-  "name": "compress-img",
-  "description": "Compress images with command line",
+  "name": "compress-assets",
+  "description": "Compress assets (PNG, JPG, SVG) with command line",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/greeto/compress-img"
+    "url": "https://github.com/greeto/compress-assets"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/greeto/compress-img/issues"
+    "url": "https://github.com/greeto/compress-assets/issues"
   },
-  "homepage": "https://github.com/greeto/compress-img",
+  "homepage": "https://github.com/greeto/compress-assets",
   "bin": {
-    "compress-img": "bin/compress-img.js"
+    "compress-assets": "bin/compress-assets.js"
   },
   "dependencies": {
     "compress-images": "^1.1.6"
