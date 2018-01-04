@@ -1,7 +1,7 @@
 {
   "name": "compress-assets",
   "description": "Compress assets (PNG, JPG, SVG) with command line",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
     "compress-assets": "bin/compress-assets.js"
   },
   "dependencies": {
+    "compress-assets": "^1.0.1",
     "compress-images": "^1.1.6"
   }
 }

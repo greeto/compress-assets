@@ -238,6 +238,12 @@ commander@~2.8.1:
   dependencies:
     graceful-readlink ">= 1.0.0"
 
+compress-assets@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/compress-assets/-/compress-assets-1.0.1.tgz#e72245b820dd385e0848627257a91cdcf72f90e2"
+  dependencies:
+    compress-images "^1.1.6"
+
 compress-images@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/compress-images/-/compress-images-1.1.6.tgz#bc1aa68817ca9fe4c941b94cd047452c25514be6"
