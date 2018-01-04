@@ -1,8 +1,5 @@
 # compress-assets
 
-
-> [compress-assets](https://github.com/greeto/compress-assets) **Minify size your images**. Image compression with extension: jpg/jpeg, svg, png, gif.
-
 **Compress** your assets. **Compression** with extension: **`jpg/jpeg`**, **`svg`**, **`png`**, **`gif`**.
 
 
@@ -13,9 +10,8 @@
 npm install -g compress-assets
 ```
 
-## Examples how use
+## Usage
 
-#### Example 1
 ```javascript
 compress-assets
 ```
@@ -30,7 +26,7 @@ TAL GERAFI
 ## License
 MIT License
 
-Copyright (c) 2017 TAL GERAFI
+Copyright (c) 2018 TAL GERAFI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
