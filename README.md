@@ -1,6 +1,6 @@
 # compress-assets
 
-**Compress** your assets. **Compression** with extension: **`jpg/jpeg`**, **`svg`**, **`png`**, **`gif`**.
+**Compress** your assets. **Compression** with extension: **`jpg/jpeg`**, **`svg`**, **`png`**, **`gif`**. **Using** [https://github.com/semiromid/compress-images](compress-images)
 
 
 # Get started
@@ -12,7 +12,7 @@ npm install -g compress-assets
 
 ## Usage
 
-```javascript
+```shell
 compress-assets
 ```
 
