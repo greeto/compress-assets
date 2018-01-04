@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-console.log("Hey2!");
+console.log("Compress Assets!");
 
 //
 // var CURRENT_PWD;
