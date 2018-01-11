@@ -1,6 +1,6 @@
 # compress-assets
 
-**Compress** your assets. **Compression** with extension: **`jpg/jpeg`**, **`svg`**, **`png`**, **`gif`**.
+**Compress** your assets. **Compression** with extension: **`jpg/jpeg`**, **`png`**, **`gif`**.
 
 **Using** [compress-images](https://github.com/semiromid/compress-images)
 
